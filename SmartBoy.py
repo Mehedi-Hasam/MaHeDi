@@ -50,15 +50,21 @@ def jalan(z):
 logo = """
                        
                      
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       facebook:Easin.Official10
+
+╭━╮╭━╮╱╱╭╮╱╭╮╱╱╭━━━╮
+┃┃╰╯┃┃╱╱┃┃╱┃┃╱╱╰╮╭╮┃
+┃╭╮╭╮┣━━┫╰━╯┣━━╮┃┃┃┣╮
+┃┃┃┃┃┃╭╮┃╭━╮┃┃━┫┃┃┃┣┫
+┃┃┃┃┃┃╭╮┃┃╱┃┃┃━╋╯╰╯┃┃
+╰╯╰╯╰┻╯╰┻╯╱╰┻━━┻━━━┻╯
+
+
+       facebook:Mahedi.Hasan.69
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1: md_easin
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;97mMehedi Hasan
+\033[1;96mInstagram \033[1;93m: \033[1: Mehedi_Hasan
+\033[1;96mFacebook  \033[1;93m: \033[1: Helpzone69
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mehedi-Hasam/MaHeDi
 \033[1;91m======================================="""
 
 def tik():
@@ -81,20 +87,26 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m
  
             
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       Facebook:Smart Boy Easin
+
+╭━╮╭━╮╱╱╭╮╱╭╮╱╱╭━━━╮
+┃┃╰╯┃┃╱╱┃┃╱┃┃╱╱╰╮╭╮┃
+┃╭╮╭╮┣━━┫╰━╯┣━━╮┃┃┃┣╮
+┃┃┃┃┃┃╭╮┃╭━╮┃┃━┫┃┃┃┣┫
+┃┃┃┃┃┃╭╮┃┃╱┃┃┃━╋╯╰╯┃┃
+╰╯╰╯╰┻╯╰┻╯╱╰┻━━┻━━━┻╯
+
+
+       Facebook:MehediHasan69
  
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;97mMehedi Hasan
+\033[1;96mInstagram \033[1;93m: \033[1;97mMehedi Hasan
+\033[1;96mFacebook  \033[1;93m: \033[1;97m Mehedihasan69
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mehedi-Hasam/MaHeDi
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "easin"
-CorrectPassword = "easin"
+CorrectUsername = "MaHeDi"
+CorrectPassword = "MaHeDi"
 
 loop = 'true'
 while (loop == 'true'):
