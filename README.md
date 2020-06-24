@@ -17,7 +17,7 @@
 
 * git clone https://github.com/Mehedi-Hasam/MaHeDi
 
-cd MaHeDi 
+* cd MaHeDi 
 
 python2 MaHeDi.py
 
