@@ -19,6 +19,6 @@
 
 * cd MaHeDi 
 
-python2 MaHeDi.py
+* python2 MaHeDi.py
 
 #Thanks
